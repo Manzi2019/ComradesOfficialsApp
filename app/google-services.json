@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "479931518537",
+    "project_id": "comradesofficials-f4dbd",
+    "storage_bucket": "comradesofficials-f4dbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479931518537:android:447fb84b7260d1ac6db998",
+        "android_client_info": {
+          "package_name": "com.manzi.comradesofficials"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479931518537-sdm1lp5h25gpd85fg16hcf44u3j48mvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMlP75JhuTi4oRJaqf4GiWg2hiz8KKYUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479931518537-sdm1lp5h25gpd85fg16hcf44u3j48mvm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
