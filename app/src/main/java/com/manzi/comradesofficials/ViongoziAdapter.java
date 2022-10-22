@@ -40,7 +40,7 @@ public class ViongoziAdapter extends RecyclerView.Adapter<ViongoziAdapter.viewHo
     public void onBindViewHolder(@NonNull viewHolder holder, int position) {
 
         ViongoziModel viongoziModel=viongoziModelList.get(position);
-        holder.tvname.setText("Official's Name: "+ viongoziModel.getName());
+        holder.tvname.setText("Name: "+ viongoziModel.getName());
         holder.tvannouncement.setText( viongoziModel.getAnnouncement());
 
         String imageUri=null;
